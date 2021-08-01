@@ -1,0 +1,183 @@
+/* !Медиа-запросы */
+
+/* @media (max-width: 1024px) { */
+
+/* .container {
+  margin: 0 50px;
+} */
+
+/* Header */
+
+.header-menu {
+  padding: 26px 0;
+}
+
+.header-menu__burger {
+  display: block;
+}
+
+.header-menu__logo {
+  width: 150px;
+  height: 48px;
+  transform: none;
+  transform: translateX(-3px);
+}
+
+.header-menu__nav {
+  width: auto;
+}
+
+.header-menu__nav__list {
+  display: none;
+}
+
+.header-menu__nav__btn {
+  transform: translateY(6.5px);
+  margin: 0;
+}
+
+/* Section Order */
+
+.order {
+  width: 100%;
+  height: 668px;
+  background-image: url('../img/balconies-1024.jpg');
+  padding: 160px 45px 0;
+  margin: 0;
+  margin-bottom: 58px;
+}
+
+.order__heading {
+  font-weight: 800;
+  font-size: 60px;
+  line-height: 73px;
+  padding: 0;
+  margin-bottom: 11px;
+}
+
+.order__text {
+  font-size: 20px;
+  line-height: 24px;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 110px;
+}
+
+.order__btn {
+  padding: 25.5px 38px;
+  margin: 0;
+  margin-bottom: 69px;
+}
+
+.order__bullet {
+  width: 85px;
+  height: 15px;
+  position: absolute;
+  bottom: 0;
+  right: 45%;
+  background-image: url('../img/bullet.png');
+  margin: 0 auto 30px;
+}
+
+/* Section About us */
+
+.about {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 47px;
+}
+
+.about-title {
+  padding: 0;
+  margin-bottom: 9px;
+}
+
+.about__text {
+  max-width: 100%;
+}
+
+/* Section Aside */
+
+.aside {
+  flex-direction: column;
+  margin-bottom: 50px;
+}
+
+.aside-block1 {
+  min-width: 100%;
+  min-height: 100%;
+  margin: 0;
+  margin-bottom: 50px;
+}
+
+.aside-block2 {
+  min-width: 100%;
+  min-height: 100%;
+  position: relative;
+  flex-direction: column;
+  margin: 0;
+}
+
+/* How we are working */
+
+.working {
+  margin-bottom: 53px;
+}
+
+.working-title {
+  margin-bottom: 38px;
+}
+
+.working__tip {
+  width: 100%;
+}
+
+.working__block1 {
+  padding: 0;
+}
+
+.working__block1__info {
+  padding-right: 40px;
+  margin-bottom: 30px;
+}
+
+.working__block2 {
+  min-height: 689px;
+  background-size: cover;
+  margin-top: 30px;
+}
+
+/* Frequently asked Questions */
+.questions {
+  margin-bottom: 53px;
+}
+
+.question__link {
+  flex-wrap: nowrap;
+}
+
+.question__text {
+  font-size: 20px;
+  line-height: 32px;
+}
+
+.question__icon {
+  box-sizing: content-box;
+}
+
+/* Footer */
+.footer-container {
+
+  padding-top: 47px 0 80px;
+}
+.footer-request {
+  margin: 0;
+}
+
+.footer-info {
+  display: none;
+}
+
+/* @media (max-width: 768px) {}
+
+@media (max-width: 320px) {} */
